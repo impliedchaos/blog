@@ -18,14 +18,14 @@ avatar: https://avatars0.githubusercontent.com/u/10725029
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: crap@dharmadevil.com
   facebook: 
   flickr: 
   github: impliedchaos
   instagram: 
   linkedin: 
   pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: whoops
   twitter: impliedchaos
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
@@ -64,6 +64,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jemoji
 
 # Exclude these files from your production _site
 exclude:
