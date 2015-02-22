@@ -13,6 +13,8 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  {{ site.baseurl }}{{ page.url }}
+
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
   <div class="comments">
     <script src="https://apis.google.com/js/plusone.js">
