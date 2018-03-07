@@ -386,5 +386,82 @@ Judge Dredd | Dredd (2012)
 Skurge | Thor: Ragnarok (2017)
 
 
+## Honorable Mentions (actors with 3 roles):
+* Roger Allam
+* Gemma Arterton
+* Jamie Bell
+* Halle Berry
+* Richard Brake (+ Extra)
+* Jeff Bridges
+* Steve Buscemi
+* Nicolas Cage
+* Jim Carrey
+* Reg E. Cathey
+* Jamie Chung
+* Thomas Hayden Church (+ Extra)
+* Jeffrey Combs
+* Daniel Craig
+* James Cromwell
+* Tim Curry
+* Willem Dafoe
+* Timothy Dalton
+* Michael Clarke Duncan
+* Idris Elba
+* Christopher Fairbank
+* Michael Fassbender
+* John Favreau (+ Extra)
+* Laurence Fishburne (+ Narrator role)
+* Tommy Flanagan
+* Ben Foster
+* Morgan Freeman
+* Walton Goggins
+* John Goodman
+* Seth Green
+* Judy Greer
+* Carla Gugino
+* Mark Hamill
+* Chin Han
+* Ed Harris
+* Rutger Hauer
+* Lena Headey
+* Ciarán Hinds
+* William Hootkins
+* Djimon Hounsou
+* Danny Huston
+* Thomas Jane
+* Toby Jones (+ Extra)
+* Tommy Lee Jones
+* Udo Kier
+* Jaime King
+* Eugene Levy
+* Christopher Lloyd
+* Donal Logue
+* Mako
+* John Malkovich
+* Joe Manganiello
+* James Marsden
+* Michael Massee
+* James McAvoy
+* Callan Mulvey
+* Jack Noseworthy
+* Bill Paxton
+* Parker Posey
+* James Remar (+ Extra)
+* Paul Reubens
+* Brandon Routh
+* William Sadler
+* Zoe Saldana
+* Tony Shalhoub
+* J.K. Simmons
+* Sylvester Stallone
+* Ray Stevenson
+* Tilda Swinton
+* Max von Sydow
+* Jeffrey Tambor
+* Marek Vasut 
+* Frank Welker (4 voice acting roles)
+* Michael Jai White
+* Patrick Wilson
+
 
 (All data was compiled from http://themoviedb.org and pictures are from IMDb.)
