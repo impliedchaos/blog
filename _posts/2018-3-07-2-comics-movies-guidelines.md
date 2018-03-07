@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guidelines for inclusion of Comics Based Movies
+title: Guidelines for Inclusion of Comics Based Movies
 ---
 
 ## Dave's (Arbitrary) Movie Selection Guidelines
