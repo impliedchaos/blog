@@ -23,5 +23,5 @@ title: Guidelines for inclusion of Comics Based Movies
 ## Actor and Character Guidelines
 1. In general roles as an extra don't count.
    1. Usually roles without a character name don't count.
-   1. However, some can.  For example, Peter Mensah's "Messenger" role in _300_ was pretty important, and would definitely count.  Michael Jai White's "Audience Man" in _Teenage Mutant Ninja Turtles_ wouldn't.
+   1. However, some can.  For example, Peter Mensah's "Messenger" role in _300_ was pretty important, and would definitely count.  Michael Jai White's "Audience Man" in _Teenage Mutant Ninja Turtles II_ wouldn't.
 1. Actors only.  Stan Lee and Frank Miller cameos don't count.
