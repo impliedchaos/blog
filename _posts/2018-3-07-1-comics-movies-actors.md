@@ -116,7 +116,7 @@ Abe Sapien | Hellboy (2004)
 " | Hellboy II: The Golden Army (2008)
 Norrin Radd / Silver Surfer | Fantastic 4: Rise of the Silver Surfer (2007)
 
-Besides having 4 roles, he also has two roles as extras in _Batman Returns_ and _Tank Girl_.
+Besides having 4 roles, he also has two roles as an extra in _Batman Returns_ and _Tank Girl_.
 
 # [Ron Perlman](https://www.themoviedb.org/person/2372-ron-perlman) - 4 characters in 6 movies
 ![Ron Perlman Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NzAzMTEyOV5BMl5BanBnXkFtZTcwNjYwMzYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg)
@@ -190,6 +190,20 @@ Gail | Sin City (2005)
 " | Sin City: A Dame to Kill For (2014)
 Batgirl / Barbara Gordon (voice) | The Lego Batman Movie (2017)
 
+
+# [Clint Howard](https://www.themoviedb.org/person/15661-clint-howard) - 4+ characters in 5 movies
+![Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjRmNjljZDUtZTA4MC00YTFkLTgwMzMtYzFiMzA4YjdhOTc0XkEyXkFqcGdeQXVyMDg3OTkwMg@@._V1_UY317_CR21,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Mark | The Rocketeer (1991)
+Stalin | Fist of the North Star (1995)
+Schmitz | Barb Wire (1996)
+Dogcatcher | Addams Family Reunion (1998)
+Gordon Eldridge | Sparks (2013)
+
+Clint's "Dogcatcher" role doesn't qualify as a full character.
+
 # [John Hurt](https://www.themoviedb.org/person/5049-john-hurt) - 4 characters in 5 movies
 ![JH Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_UY317_CR5,0,214,317_AL_.jpg)
 
@@ -224,6 +238,18 @@ Stick | Elektra (2005)
 Pekwarsky | Wanted (2008)
 
 
+# [Mark Strong](https://www.themoviedb.org/person/2983-mark-strong) - 4 characters in 5 movies
+![Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMmFlZDEyZTctNTZkZi00YjI1LWEyNTMtYWNhMTBiZTEwYTUyXkEyXkFqcGdeQXVyMDQxMDEwMw@@._V1_UY317_CR17,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Frank D'Amico | Kick-Ass (2010)
+Sinestro | Green Lantern (2011)
+Hamish Mycroft / Merlin | Kingsman: The Secret Service (2015)
+" | Kingsman: The Golden Circle (2017)
+Doctor Thaddeus Bodog Sivana | Shazam! (2019)
+
+
 # [Juno Temple](https://www.themoviedb.org/person/36594-juno-temple) - 4 characters in 5 movies
 ![JT Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NDU5OTY5NV5BMl5BanBnXkFtZTgwNjE5ODA5OTE@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
@@ -234,4 +260,103 @@ Celia | St. Trinian's (2007)
 Jen | The Dark Knight Rises (2012)
 Alice | The Brass Teapot (2012)
 Sally | Sin City: A Dame to Kill For (2014)
+
+
+# [Adewale Akinnuoye-Agbaje](https://www.themoviedb.org/person/31164-adewale-akinnuoye-agbaje) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMzA5MTI5MF5BMl5BanBnXkFtZTgwMTUxMjcwOTE@._V1_UY317_CR29,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Robert Nkomo Morel | Bullet to the Head (2013)
+Algrim / Kurse | Thor: The Dark World (2013)
+Waylon Jones / Killer Croc | Suicide Squad (2016)
+Nash | Annie (2014)
+
+
+# [Ewen Bremner](https://www.themoviedb.org/person/1125-ewen-bremner) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BNTVjNzNhNzItNjc1ZC00YTJjLWI2MjctMDc4MmMxOGZkZGUxXkEyXkFqcGdeQXVyMTg0NTYyNjU@._V1_UY317_CR41,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Junior Angel | Judge Dredd (1995)
+Graeme Miller | AVP: Alien vs. Predator (2004)
+Andrew | Snowpiercer (2013)
+Charlie | Wonder Woman (2017)
+
+
+# [Clancy Brown](https://www.themoviedb.org/person/6574-clancy-brown) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Meacham | Cowboys & Aliens (2011)
+Parallax (voice) | Green Lantern (2011)
+Archer | Sparks (2013)
+Surtur (voice) | Thor: Ragnarok (2017)
+
+
+# [Jennifer Connelly](https://www.themoviedb.org/person/6161-jennifer-connelly) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Jenny Blake | The Rocketeer (1991)
+Betty Ross | Hulk (2003)
+Karen / Suit Lady (voice) | Spider-Man: Homecoming (2017)
+Chiren | Alita: Battle Angel (2018)
+
+# [Sam Elliott](https://www.themoviedb.org/person/16431-sam-elliott) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTk4NDgzMl5BMl5BanBnXkFtZTYwNjU5Nzc1._V1_UX214_CR0,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Thaddeus E. "Thunderbolt" Ross | Hulk (2003)
+Carter Slade / Phantom Rider | Ghost Rider (2007)
+Chupadogra (voice) | Marmaduke (2010)
+Fleetwood Yak (voice) | Rock Dog (2016)
+
+
+# [Holt McCallany](https://www.themoviedb.org/person/7497-holt-mccallany) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BYjY2YTQ3MGItM2RjOS00YWI5LTg4ZGYtNWY2YWJlZTljNGQxXkEyXkFqcGdeQXVyNzAzNzg4NTg@._V1_UY317_CR28,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Sam Whitemoon | Creepshow 2 (1987)
+Wade Travis | The Losers (2010)
+Hank Greely | Bullet to the Head (2013)
+Burglar | Justice League (2017)
+
+I gave Holt full credit for his "Burglar" character from the beginning of _Justice League_.
+
+# [Temuera Morrison](https://www.themoviedb.org/person/7242-temuera-morrison) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNjQ0MTM1M15BMl5BanBnXkFtZTcwMzEzNDg3OA@@._V1_UY317_CR7,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Axel Hood | Barb Wire (1996)
+Runi | Blueberry (2004)
+Abin Sur | Green Lantern (2011)
+Thomas Curry | Aquaman (2018)
+
+
+# [Karel Roden](https://www.themoviedb.org/person/10841-karel-roden) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMzEzMzAzNjMxM15BMl5BanBnXkFtZTcwNTk2NzM3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Kounen | Blade II (2002)
+Strucker | Bulletproof Monk (2003)
+Grigori Rasputin | Hellboy (2004)
+Mikhail Korsky | The Heir Apparent: Largo Winch (2008)
+
+
+# [Karl Urban](https://www.themoviedb.org/person/1372-karl-urban) - 4 characters in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+William Cooper | RED (2010)
+Black Hat | Priest (2011)
+Judge Dredd | Dredd (2012)
+Skurge | Thor: Ragnarok (2017)
 
