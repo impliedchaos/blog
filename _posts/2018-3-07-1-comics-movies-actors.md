@@ -24,9 +24,9 @@ Steve Rogers / Captain America | Captain America: The First Avenger (2011)
 Loki as Captain America (uncredited) | Thor: The Dark World (2013)
 Curtis Everett | Snowpiercer (2013)
 
-Having been the King of Comic-Book Movies for some time, Chris gets awarded a half-role with his betrayal of Loki pretending to be Captain America in the second Thor film.
+Having been the King of Comic-Book Movies for some time, Chris gets awarded a half-role with his cameo portrayal of Loki pretending to be Captain America in the second Thor film.
 
-# [Josh Brolin](https://www.themoviedb.org/person/16851-josh-brolin) - 6 charactgers in 8 movies
+# [Josh Brolin](https://www.themoviedb.org/person/16851-josh-brolin) - 6 characters in 8 movies
 ![Josh Brolin Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
