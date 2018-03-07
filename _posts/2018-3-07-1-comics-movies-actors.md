@@ -3,8 +3,10 @@ layout: post
 title: The Most Prolific Actors in Comics-Based Movies
 ---
 
+Using [this list of movies](https://github.com/impliedchaos/blog/blob/gh-pages/_posts/2018-3-07-2-comics-movies-guidelines.md), I've sorted out which actors have had the most roles in film adaptations of comics (comic strips, comic books, and graphic novels.)
+
+
 # [Chris Evans](https://www.themoviedb.org/person/16828-chris-evans) - 6.5 roles in 15 movies
-<!--break-->
 ![Chris Evans Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg)
 
 Character | Movie(s)
