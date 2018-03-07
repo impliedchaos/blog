@@ -3,7 +3,7 @@ layout: post
 title: List of Comics Based Movies (as of March 2018)
 ---
 
-##Marvel Comics
+## Marvel Comics
 * Ant-Man (2015)
 * Ant-Man and the Wasp (2018)
 * The Avengers (2012)
@@ -66,7 +66,7 @@ title: List of Comics Based Movies (as of March 2018)
 * The New Mutants (2019)
 * X-Men: Dark Phoenix (2018)
 
-##DC Comics
+## DC Comics
 * Aquaman (2018)
 * Batman (1966)
 * Batman (1989)
@@ -101,7 +101,7 @@ title: List of Comics Based Movies (as of March 2018)
 * Watchmen (2009)
 * Wonder Woman (2017)
 
-##Dark Horse Comics
+## Dark Horse Comics
 * 300 (2006)
 * 300: Rise of an Empire (2014)
 * American Splendor (2003)
@@ -123,7 +123,7 @@ title: List of Comics Based Movies (as of March 2018)
 * Timecop 2: The Berlin Decision (2003)
 * Virus (1999)
 
-##Everyone Else
+## Everyone Else
 * 2 Guns (2013)
 * 30 Days of Night (2007)
 * 30 Days of Night: Dark Days (2010)
