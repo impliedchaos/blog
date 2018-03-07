@@ -3,7 +3,7 @@ layout: post
 title: The Most Prolific Actors in Comics-Based Movies
 ---
 
-# [Chris Evans](https://www.themoviedb.org/person/16828-chris-evans) - 6.5 characters in 15 movies
+# [Chris Evans](https://www.themoviedb.org/person/16828-chris-evans) - 6.5 roles in 15 movies
 <!--break-->
 ![Chris Evans Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_UY317_CR6,0,214,317_AL_.jpg)
 
@@ -27,7 +27,7 @@ Curtis Everett | Snowpiercer (2013)
 
 Having been the King of Comic-Book Movies for some time, Chris gets awarded a half-role with his cameo portrayal of Loki pretending to be Captain America in the second Thor film.
 
-# [Josh Brolin](https://www.themoviedb.org/person/16851-josh-brolin) - 6 characters in 8 movies
+# [Josh Brolin](https://www.themoviedb.org/person/16851-josh-brolin) - 6 roles in 8 movies
 ![Josh Brolin Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -55,9 +55,9 @@ Lobby Goon | Kick-Ass (2010)
 Azazel | X-Men: First Class (2011)
 Charlie | Gemma Bovery (2014)
 
-Jason's "Lobby Goon" character from _Kick-Ass_ is memorable enough to count as a full character.
+Jason's "Lobby Goon" character from _Kick-Ass_ is memorable enough to count as a full role.
 
-# [Samuel L. Jackson](https://www.themoviedb.org/person/2231-samuel-l-jackson) - 5 characters in 12 movies
+# [Samuel L. Jackson](https://www.themoviedb.org/person/2231-samuel-l-jackson) - 5 roles in 12 movies
 ![Samuel L. Jackson Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -75,7 +75,7 @@ Nick Fury | Iron Man (2008)
 Chaney | Oldboy (2013)
 Richmond Valentine | Kingsman: The Secret Service (2015)
 
-# [Thomas Kretschmann](https://www.themoviedb.org/person/3491-thomas-kretschmann) - 5 characters in 6 movies
+# [Thomas Kretschmann](https://www.themoviedb.org/person/3491-thomas-kretschmann) - 5 roles in 6 movies
 ![TK Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1Njc5MzE1OF5BMl5BanBnXkFtZTcwMTc1NDM4Nw@@._V1_UY317_CR3,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -87,7 +87,7 @@ Cross | Wanted (2008)
 Baron Wolfgang von Strucker | Captain America: The Winter Soldier (2014)
 " | Avengers: Age of Ultron (2015)
 
-# [Scarlett Johansson](https://www.themoviedb.org/person/1245-scarlett-johansson) - 4 characters in 10 movies
+# [Scarlett Johansson](https://www.themoviedb.org/person/1245-scarlett-johansson) - 4 roles in 10 movies
 ![Scarjo Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -103,7 +103,7 @@ Natasha Romanoff / Black Widow | Iron Man 2 (2010)
 " | Avengers: Infinity War (2018)
 Major Mira Killian / Motoko Kusanagi | Ghost in the Shell (2017)
 
-# [Doug Jones](https://www.themoviedb.org/person/17005-doug-jones) - 4+ characters in 7 movies
+# [Doug Jones](https://www.themoviedb.org/person/17005-doug-jones) - 4+ roles in 7 movies
 ![Doug Jones Picture](https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDY4MDc0OF5BMl5BanBnXkFtZTYwODM4MDY0._V1_UY317_CR6,0,214,317_AL_.jpg)
     
 Character | Movie(s)
@@ -118,7 +118,7 @@ Norrin Radd / Silver Surfer | Fantastic 4: Rise of the Silver Surfer (2007)
 
 Besides having 4 roles, he also has two roles as an extra in _Batman Returns_ and _Tank Girl_.
 
-# [Ron Perlman](https://www.themoviedb.org/person/2372-ron-perlman) - 4 characters in 6 movies
+# [Ron Perlman](https://www.themoviedb.org/person/2372-ron-perlman) - 4 roles in 6 movies
 ![Ron Perlman Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NzAzMTEyOV5BMl5BanBnXkFtZTcwNjYwMzYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -130,7 +130,7 @@ Hellboy | Hellboy (2004)
 Shoggoth | Howard Lovecraft & the Frozen Kingdom (2016)
 " | Howard Lovecraft & the Undersea Kingdom (2017)
 
-# [Ryan Reynolds](https://www.themoviedb.org/person/10859-ryan-reynolds) - 4 characters in 6 movies
+# [Ryan Reynolds](https://www.themoviedb.org/person/10859-ryan-reynolds) - 4 roles in 6 movies
 ![RR Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3ODk1MTMyNV5BMl5BanBnXkFtZTcwNDEyNTE2Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -142,7 +142,7 @@ Wade Wilson / Deadpool | X-Men Origins: Wolverine (2009)
 Hal Jordan / Green Lantern | Green Lantern (2011)
 Nick Walker | R.I.P.D. (2013)
 
-# [Bruce Willis](https://www.themoviedb.org/person/62-bruce-willis) - 4 characters in 6 movies
+# [Bruce Willis](https://www.themoviedb.org/person/62-bruce-willis) - 4 roles in 6 movies
 ![BW Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_UY317_CR27,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -155,7 +155,7 @@ Frank Moses | RED (2010)
 " | RED 2 (2013)
 
 
-# [Will Arnett](https://www.themoviedb.org/person/21200-will-arnett) - 4 characters in 5 movies
+# [Will Arnett](https://www.themoviedb.org/person/21200-will-arnett) - 4 roles in 5 movies
 ![Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BNDkzMjEzNDMyN15BMl5BanBnXkFtZTcwNTk3ODEyOQ@@._V1_UY317_CR13,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -167,7 +167,7 @@ Vernon Fenwick | Teenage Mutant Ninja Turtles (2014)
 Batman / Bruce Wayne (voice) | The Lego Batman Movie (2017)
 
 
-# [Alan Cumming](https://www.themoviedb.org/person/10697-alan-cumming) - 4 characters in 5 movies
+# [Alan Cumming](https://www.themoviedb.org/person/10697-alan-cumming) - 4 roles in 5 movies
 ![AC Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MjM0NDI5M15BMl5BanBnXkFtZTcwNDg1ODE0Mw@@._V1_UY317_CR11,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -179,7 +179,7 @@ Gutsy Smurf (voice) | The Smurfs (2011)
 " | The Smurfs 2 (2013)
 
 
-# [Rosario Dawson](https://www.themoviedb.org/person/5916-rosario-dawson) - 4 characters in 5 movies
+# [Rosario Dawson](https://www.themoviedb.org/person/5916-rosario-dawson) - 4 roles in 5 movies
 ![RD Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NjQ3NTYyNF5BMl5BanBnXkFtZTcwODU4NzQ4NQ@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -191,7 +191,7 @@ Gail | Sin City (2005)
 Batgirl / Barbara Gordon (voice) | The Lego Batman Movie (2017)
 
 
-# [Clint Howard](https://www.themoviedb.org/person/15661-clint-howard) - 4+ characters in 5 movies
+# [Clint Howard](https://www.themoviedb.org/person/15661-clint-howard) - 4+ roles in 5 movies
 ![Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjRmNjljZDUtZTA4MC00YTFkLTgwMzMtYzFiMzA4YjdhOTc0XkEyXkFqcGdeQXVyMDg3OTkwMg@@._V1_UY317_CR21,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -204,7 +204,7 @@ Gordon Eldridge | Sparks (2013)
 
 Clint's "Dogcatcher" role doesn't qualify as a full character.
 
-# [John Hurt](https://www.themoviedb.org/person/5049-john-hurt) - 4 characters in 5 movies
+# [John Hurt](https://www.themoviedb.org/person/5049-john-hurt) - 4 roles in 5 movies
 ![JH Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_UY317_CR5,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -215,7 +215,7 @@ Chancellor Adam Sutler | V for Vendetta (2006)
 Gilliam | Snowpiercer (2013)
 Cotys | Hercules (2014)
 
-# [Christina Ricci](https://www.themoviedb.org/person/6886-christina-ricci) - 4 characters in 5 movies
+# [Christina Ricci](https://www.themoviedb.org/person/6886-christina-ricci) - 4 roles in 5 movies
 ![CR Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjUzMzk5NzcyNV5BMl5BanBnXkFtZTcwNzQ1NjkzNw@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -226,7 +226,7 @@ Kathleen 'Kat' Harvey | Casper (1995)
 Trixie | Speed Racer (2008)
 Vexy (voice) | The Smurfs 2 (2013)
 
-# [Terence Stamp](https://www.themoviedb.org/person/28641-terence-stamp) - 4 characters in 5 movies
+# [Terence Stamp](https://www.themoviedb.org/person/28641-terence-stamp) - 4 roles in 5 movies
 ![TS Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0ODc3ODQ4OF5BMl5BanBnXkFtZTcwNzIxNzAyMg@@._V1_UY317_CR5,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -238,7 +238,7 @@ Stick | Elektra (2005)
 Pekwarsky | Wanted (2008)
 
 
-# [Mark Strong](https://www.themoviedb.org/person/2983-mark-strong) - 4 characters in 5 movies
+# [Mark Strong](https://www.themoviedb.org/person/2983-mark-strong) - 4 roles in 5 movies
 ![Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMmFlZDEyZTctNTZkZi00YjI1LWEyNTMtYWNhMTBiZTEwYTUyXkEyXkFqcGdeQXVyMDQxMDEwMw@@._V1_UY317_CR17,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -250,7 +250,7 @@ Hamish Mycroft / Merlin | Kingsman: The Secret Service (2015)
 Doctor Thaddeus Bodog Sivana | Shazam! (2019)
 
 
-# [Juno Temple](https://www.themoviedb.org/person/36594-juno-temple) - 4 characters in 5 movies
+# [Juno Temple](https://www.themoviedb.org/person/36594-juno-temple) - 4 roles in 5 movies
 ![JT Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ3NDU5OTY5NV5BMl5BanBnXkFtZTgwNjE5ODA5OTE@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -262,7 +262,7 @@ Alice | The Brass Teapot (2012)
 Sally | Sin City: A Dame to Kill For (2014)
 
 
-# [Adewale Akinnuoye-Agbaje](https://www.themoviedb.org/person/31164-adewale-akinnuoye-agbaje) - 4 characters in 4 movies
+# [Adewale Akinnuoye-Agbaje](https://www.themoviedb.org/person/31164-adewale-akinnuoye-agbaje) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwMzA5MTI5MF5BMl5BanBnXkFtZTgwMTUxMjcwOTE@._V1_UY317_CR29,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -273,7 +273,7 @@ Waylon Jones / Killer Croc | Suicide Squad (2016)
 Nash | Annie (2014)
 
 
-# [Ewen Bremner](https://www.themoviedb.org/person/1125-ewen-bremner) - 4 characters in 4 movies
+# [Ewen Bremner](https://www.themoviedb.org/person/1125-ewen-bremner) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BNTVjNzNhNzItNjc1ZC00YTJjLWI2MjctMDc4MmMxOGZkZGUxXkEyXkFqcGdeQXVyMTg0NTYyNjU@._V1_UY317_CR41,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -284,7 +284,7 @@ Andrew | Snowpiercer (2013)
 Charlie | Wonder Woman (2017)
 
 
-# [Clancy Brown](https://www.themoviedb.org/person/6574-clancy-brown) - 4 characters in 4 movies
+# [Clancy Brown](https://www.themoviedb.org/person/6574-clancy-brown) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -295,7 +295,7 @@ Archer | Sparks (2013)
 Surtur (voice) | Thor: Ragnarok (2017)
 
 
-# [Jennifer Connelly](https://www.themoviedb.org/person/6161-jennifer-connelly) - 4 characters in 4 movies
+# [Jennifer Connelly](https://www.themoviedb.org/person/6161-jennifer-connelly) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BOTczNTgzODYyMF5BMl5BanBnXkFtZTcwNjk4ODk4Mw@@._V1_UY317_CR12,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -305,7 +305,7 @@ Betty Ross | Hulk (2003)
 Karen / Suit Lady (voice) | Spider-Man: Homecoming (2017)
 Chiren | Alita: Battle Angel (2018)
 
-# [Sam Elliott](https://www.themoviedb.org/person/16431-sam-elliott) - 4 characters in 4 movies
+# [Sam Elliott](https://www.themoviedb.org/person/16431-sam-elliott) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTk4NDgzMl5BMl5BanBnXkFtZTYwNjU5Nzc1._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -316,7 +316,18 @@ Chupadogra (voice) | Marmaduke (2010)
 Fleetwood Yak (voice) | Rock Dog (2016)
 
 
-# [Holt McCallany](https://www.themoviedb.org/person/7497-holt-mccallany) - 4 characters in 4 movies
+# [Eddie Izzard](https://www.themoviedb.org/person/1926-eddie-izzard) - 4 roles in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTIxNzM0OF5BMl5BanBnXkFtZTcwNTMwMzcwMg@@._V1_UY317_CR10,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Tony P | Mystery Men (1999)
+Prosit | Blueberry (2004)
+Angus (voice) | Rock Dog (2016)
+Voldemort (voice) | The Lego Batman Movie (2017)
+
+
+# [Holt McCallany](https://www.themoviedb.org/person/7497-holt-mccallany) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BYjY2YTQ3MGItM2RjOS00YWI5LTg4ZGYtNWY2YWJlZTljNGQxXkEyXkFqcGdeQXVyNzAzNzg4NTg@._V1_UY317_CR28,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -328,7 +339,19 @@ Burglar | Justice League (2017)
 
 I gave Holt full credit for his "Burglar" character from the beginning of _Justice League_.
 
-# [Temuera Morrison](https://www.themoviedb.org/person/7242-temuera-morrison) - 4 characters in 4 movies
+
+# [Jeffrey Dean Morgan](https://www.themoviedb.org/person/47296-jeffrey-dean-morgan) - 4 roles in 4 movies
+![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BM2QwNjhkYzMtNjQ5Mi00OTk2LTg4N2ItZjUzYmU4MWViMDkxXkEyXkFqcGdeQXVyODY2NjYzNA@@._V1_UY317_CR3,0,214,317_AL_.jpg)
+
+Character | Movie(s)
+----------|---------
+Edward Blake / The Comedian | Watchmen (2009)
+Jeb Turnbull | Jonah Hex (2010)
+Franklin Clay | The Losers (2010)
+Thomas Wayne (uncredited) | Batman v Superman: Dawn of Justice (2016)
+
+
+# [Temuera Morrison](https://www.themoviedb.org/person/7242-temuera-morrison) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNjQ0MTM1M15BMl5BanBnXkFtZTcwMzEzNDg3OA@@._V1_UY317_CR7,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -339,7 +362,7 @@ Abin Sur | Green Lantern (2011)
 Thomas Curry | Aquaman (2018)
 
 
-# [Karel Roden](https://www.themoviedb.org/person/10841-karel-roden) - 4 characters in 4 movies
+# [Karel Roden](https://www.themoviedb.org/person/10841-karel-roden) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMzEzMzAzNjMxM15BMl5BanBnXkFtZTcwNTk2NzM3OA@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
 Character | Movie(s)
@@ -350,7 +373,7 @@ Grigori Rasputin | Hellboy (2004)
 Mikhail Korsky | The Heir Apparent: Largo Winch (2008)
 
 
-# [Karl Urban](https://www.themoviedb.org/person/1372-karl-urban) - 4 characters in 4 movies
+# [Karl Urban](https://www.themoviedb.org/person/1372-karl-urban) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2Njg3MDgyN15BMl5BanBnXkFtZTcwNjgyNTA4Mg@@._V1_UY317_CR5,0,214,317_AL_.jpg)
 
 Character | Movie(s)
