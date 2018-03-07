@@ -29,6 +29,7 @@ Curtis Everett | Snowpiercer (2013)
 
 Having been the King of Comic-Book Movies for some time, Chris gets awarded a half-role with his cameo portrayal of Loki pretending to be Captain America in the second Thor film.
 
+
 ## [Josh Brolin](https://www.themoviedb.org/person/16851-josh-brolin) - 6 roles in 8 movies
 ![Josh Brolin Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
@@ -45,6 +46,7 @@ Nathan Summers / Cable | The Untitled Deadpool Sequel (2018)
 
 Josh has been climbing the ranks, with 3 new Comic-based roles since 2014.
 
+
 ## [Jason Flemyng](https://www.themoviedb.org/person/973-jason-flemyng) - 6 roles in 6 movies
 ![JF Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0MjUxNTk5MV5BMl5BanBnXkFtZTcwOTE0OTEyOA@@._V1_UY317_CR21,0,214,317_AL_.jpg)
 
@@ -58,6 +60,7 @@ Azazel | X-Men: First Class (2011)
 Charlie | Gemma Bovery (2014)
 
 Jason's "Lobby Goon" character from _Kick-Ass_ is memorable enough to count as a full role.
+
 
 ## [Samuel L. Jackson](https://www.themoviedb.org/person/2231-samuel-l-jackson) - 5 roles in 12 movies
 ![Samuel L. Jackson Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_UX214_CR0,0,214,317_AL_.jpg)
@@ -77,6 +80,7 @@ Nick Fury | Iron Man (2008)
 Chaney | Oldboy (2013)
 Richmond Valentine | Kingsman: The Secret Service (2015)
 
+
 ## [Thomas Kretschmann](https://www.themoviedb.org/person/3491-thomas-kretschmann) - 5 roles in 6 movies
 ![TK Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1Njc5MzE1OF5BMl5BanBnXkFtZTcwMTc1NDM4Nw@@._V1_UY317_CR3,0,214,317_AL_.jpg)
 
@@ -88,6 +92,7 @@ Alcide Nikopol | Immortal (2004)
 Cross | Wanted (2008)
 Baron Wolfgang von Strucker | Captain America: The Winter Soldier (2014)
 " | Avengers: Age of Ultron (2015)
+
 
 ## [Scarlett Johansson](https://www.themoviedb.org/person/1245-scarlett-johansson) - 4 roles in 10 movies
 ![Scarjo Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_UY317_CR23,0,214,317_AL_.jpg)
@@ -105,6 +110,7 @@ Natasha Romanoff / Black Widow | Iron Man 2 (2010)
 " | Avengers: Infinity War (2018)
 Major Mira Killian / Motoko Kusanagi | Ghost in the Shell (2017)
 
+
 ## [Doug Jones](https://www.themoviedb.org/person/17005-doug-jones) - 4+ roles in 7 movies
 ![Doug Jones Picture](https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzNDY4MDc0OF5BMl5BanBnXkFtZTYwODM4MDY0._V1_UY317_CR6,0,214,317_AL_.jpg)
     
@@ -120,6 +126,7 @@ Norrin Radd / Silver Surfer | Fantastic 4: Rise of the Silver Surfer (2007)
 
 Besides having 4 roles, he also has two roles as an extra in _Batman Returns_ and _Tank Girl_.
 
+
 ## [Ron Perlman](https://www.themoviedb.org/person/2372-ron-perlman) - 4 roles in 6 movies
 ![Ron Perlman Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTY0NzAzMTEyOV5BMl5BanBnXkFtZTcwNjYwMzYwNg@@._V1_UY317_CR2,0,214,317_AL_.jpg)
 
@@ -132,6 +139,7 @@ Hellboy | Hellboy (2004)
 Shoggoth | Howard Lovecraft & the Frozen Kingdom (2016)
 " | Howard Lovecraft & the Undersea Kingdom (2017)
 
+
 ## [Ryan Reynolds](https://www.themoviedb.org/person/10859-ryan-reynolds) - 4 roles in 6 movies
 ![RR Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3ODk1MTMyNV5BMl5BanBnXkFtZTcwNDEyNTE2Mg@@._V1_UY317_CR6,0,214,317_AL_.jpg)
 
@@ -143,6 +151,7 @@ Wade Wilson / Deadpool | X-Men Origins: Wolverine (2009)
 " | Untitled Deadpool Sequel (2018)
 Hal Jordan / Green Lantern | Green Lantern (2011)
 Nick Walker | R.I.P.D. (2013)
+
 
 ## [Bruce Willis](https://www.themoviedb.org/person/62-bruce-willis) - 4 roles in 6 movies
 ![BW Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjA0MjMzMTE5OF5BMl5BanBnXkFtZTcwMzQ2ODE3Mw@@._V1_UY317_CR27,0,214,317_AL_.jpg)
@@ -206,6 +215,7 @@ Gordon Eldridge | Sparks (2013)
 
 Clint's "Dogcatcher" role doesn't qualify as a full character.
 
+
 ## [John Hurt](https://www.themoviedb.org/person/5049-john-hurt) - 4 roles in 5 movies
 ![JH Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NTgyMTAyOV5BMl5BanBnXkFtZTcwMTE4MjQwNA@@._V1_UY317_CR5,0,214,317_AL_.jpg)
 
@@ -217,6 +227,7 @@ Chancellor Adam Sutler | V for Vendetta (2006)
 Gilliam | Snowpiercer (2013)
 Cotys | Hercules (2014)
 
+
 ## [Christina Ricci](https://www.themoviedb.org/person/6886-christina-ricci) - 4 roles in 5 movies
 ![CR Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMjUzMzk5NzcyNV5BMl5BanBnXkFtZTcwNzQ1NjkzNw@@._V1_UX214_CR0,0,214,317_AL_.jpg)
 
@@ -227,6 +238,7 @@ Wednesday Addams | The Addams Family (1991)
 Kathleen 'Kat' Harvey | Casper (1995)
 Trixie | Speed Racer (2008)
 Vexy (voice) | The Smurfs 2 (2013)
+
 
 ## [Terence Stamp](https://www.themoviedb.org/person/28641-terence-stamp) - 4 roles in 5 movies
 ![TS Photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0ODc3ODQ4OF5BMl5BanBnXkFtZTcwNzIxNzAyMg@@._V1_UY317_CR5,0,214,317_AL_.jpg)
@@ -306,6 +318,7 @@ Jenny Blake | The Rocketeer (1991)
 Betty Ross | Hulk (2003)
 Karen / Suit Lady (voice) | Spider-Man: Homecoming (2017)
 Chiren | Alita: Battle Angel (2018)
+
 
 ## [Sam Elliott](https://www.themoviedb.org/person/16431-sam-elliott) - 4 roles in 4 movies
 ![photo](https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NTk4NDgzMl5BMl5BanBnXkFtZTYwNjU5Nzc1._V1_UX214_CR0,0,214,317_AL_.jpg)
