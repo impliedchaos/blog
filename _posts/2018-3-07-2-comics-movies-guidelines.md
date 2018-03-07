@@ -19,6 +19,7 @@ title: Guidelines for inclusion of Comics Based Movies
    1. Sadly lots of interesting stuff gets left out because of this rule. :(
    1. Some partially English inclusions in the current list are : _Immortals_, _Largo Winch_, and _Gemma Bovery_.
 1. Movies don't have to be released yet, but they must be at least in production.  No pre-production or "maybe someday" development-hell movies.
+1. Nothing before 1950. Just because I'm lazy.
 
 ## Actor and Character Guidelines
 1. In general roles as an extra don't count.
